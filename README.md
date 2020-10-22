@@ -1,4 +1,33 @@
-# nbdev template
+# Welcome to nbdev
+> Tutorial nbdev
 
-Use this template to more easily create your nbdev project.
+
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
+    The autoreload extension is already loaded. To reload it, use:
+      %reload_ext autoreload
+
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install your_project_name`
+
+## How to use
+
+Ejemplos say_hello
+
+```python
+say_hello("pirata")
+```
+
+
+
+
+    'Hello pirata!'
+
 
