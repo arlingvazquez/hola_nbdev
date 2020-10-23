@@ -21,10 +21,6 @@ This file will become your README and also the index of your documentation.
 
 Ejemplos say_hello
 
-```python
-say_hello("pirata")
-```
-
 
 
 
