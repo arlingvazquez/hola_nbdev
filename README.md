@@ -17,7 +17,7 @@ This file will become your README and also the index of your documentation.
 
 `pip install your_project_name`
 
-## How to use
+## How to use...
 
 Ejemplos say_hello
 
@@ -27,3 +27,9 @@ Ejemplos say_hello
     'Hello pirata!'
 
 
+
+Ejemplo prueba
+
+```python
+obama_tweets = open_list('obama_tweets.txt')
+```
