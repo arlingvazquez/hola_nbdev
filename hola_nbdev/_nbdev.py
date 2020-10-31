@@ -4,7 +4,6 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "00_core.ipynb",
          "HelloSayer": "00_core.ipynb",
-         "func": "00_core.ipynb",
          "parse_artists_tags": "00_core.ipynb",
          "parse_user_artists_matrix": "00_core.ipynb",
          "objective_fcn": "00_core.ipynb",
