@@ -13,7 +13,8 @@ index = {"say_hello": "00_core.ipynb",
          "segment_lengths": "00_core.ipynb",
          "segment_orientations": "00_core.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "None.py"]
 
 doc_url = "https://arlingva.github.io/hola_nbdev/"
 

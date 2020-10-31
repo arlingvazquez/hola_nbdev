@@ -12,9 +12,6 @@ entries:
     - output: web,pdf
       title: core
       url: core.html
-    - output: web,pdf
-      title: Sentiment
-      url: Sentiment.html
     output: web
     title: hola_nbdev
   output: web

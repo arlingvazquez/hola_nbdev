@@ -1,7 +1,6 @@
 {
   "hola_nbdev": {
     "Overview": "/",
-    "core": "core.html",
-    "Sentiment": "Sentiment.html"
+    "core": "core.html"
   }
 }
