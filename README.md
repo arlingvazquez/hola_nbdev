@@ -29,7 +29,3 @@ Ejemplos say_hello
 
 
 Ejemplo prueba
-
-```python
-obama_tweets = open_list('obama_tweets.txt')
-```
